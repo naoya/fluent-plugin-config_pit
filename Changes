@@ -1,4 +1,7 @@
 Revision history for fluent-plugin-config_pit
 
+0.02    Wed Feb  19
+        - fix typo in gemspec
+
 0.01    Wed Feb  19
         - original version
