@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |gem|
   gem.name          = "fluent-plugin-config_pit"
-  gem.version       = "0.0.1"
+  gem.version       = "0.0.2"
   gem.authors       = ["Naoya Ito"]
   gem.email         = ["i.naoya@gmail.com"]
   gem.description   = %q{This plugin provides directive for pit}
   gem.summary       = %q{Fluentd plugin to enable pit in configuration}
-  gem.homepage      = "https://github.com/naoay/fluent-plugin-config_pit"
+  gem.homepage      = "https://github.com/naoya/fluent-plugin-config_pit"
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
