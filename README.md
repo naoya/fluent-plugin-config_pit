@@ -6,7 +6,7 @@ Fluentd Input/Output plugin which provides pit directive in configuration.
 
 ## Configuration
 
-Fore both of input and output (for <source> and <match>), you can use 'pit' directive like below:
+Fore both of input and output (for source and match), you can use 'pit' directive like below:
 
     <pit aws>
       type s3
