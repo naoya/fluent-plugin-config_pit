@@ -1,4 +1,4 @@
-# fluent-plugin-config_pit
+# fluent-plugin-config_pit, a plugin for [Fluentd](http://fluentd.org)
 
 ## ConfigPitInput, ConfigPitOutput
 
